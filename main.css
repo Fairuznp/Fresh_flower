@@ -154,7 +154,7 @@ body {
   transform: translate(-50%, -100%);
   width: 8vmin;
   height: 8vmin;
-  background-color: #6bf0ff;
+  background-color: #ff25e8ff;
   filter: blur(10vmin);
 }
 .flower__leaf {
