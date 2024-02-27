@@ -164,7 +164,7 @@ body {
   width: 8vmin;
   height: 11vmin;
   border-radius: 51% 49% 47% 53%/44% 45% 55% 69%;
-  background-color: #a7ffee;
+  background-color: #ff25e8ff;
   background-image: linear-gradient(to top, #54b8aa, #a7ffee);
   transform-origin: bottom center;
   opacity: 0.9;
@@ -264,7 +264,7 @@ body {
   bottom: 0vmin;
   width: 1vmin;
   height: 1vmin;
-  background-color: rgb(255, 251, 0);
+  background-color:#ff25e8ff ;
   border-radius: 50%;
   filter: blur(0.2vmin);
   -webkit-animation: light-ans 4s linear infinite backwards;
